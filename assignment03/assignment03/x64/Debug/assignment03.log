@@ -1,0 +1,9 @@
+﻿  Queue.cpp
+C:\Users\Chato El 620\Documents\Fall 2024\Data Structures CS303\Assignment03\assignment03\Queue.cpp(32,15): error C3861: 'out_of_range': identifier not found
+      C:\Users\Chato El 620\Documents\Fall 2024\Data Structures CS303\Assignment03\assignment03\Queue.cpp(32,27):
+      'out_of_range': function declaration must be available as none of the arguments depend on a template parameter
+  
+C:\Users\Chato El 620\Documents\Fall 2024\Data Structures CS303\Assignment03\assignment03\Queue.cpp(52,15): error C3861: 'out_of_range': identifier not found
+      C:\Users\Chato El 620\Documents\Fall 2024\Data Structures CS303\Assignment03\assignment03\Queue.cpp(52,27):
+      'out_of_range': function declaration must be available as none of the arguments depend on a template parameter
+  
